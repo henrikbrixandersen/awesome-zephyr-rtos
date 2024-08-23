@@ -206,6 +206,7 @@ Note: the official SDK includes several compilers.
 
 - [ZMK](https://github.com/zmkfirmware/zmk) - ZMK Firmware is an open source (MIT) keyboard firmware built on the Zephyr™ Project Real Time Operating System (RTOS).
 - [ZSWatch](https://github.com/jakkra/ZSWatch) - The Open Source Zephyr™ based Smartwatch, including both HW and FW.
+- [CANnectivity - USB to CAN adapter firmware](https://github.com/CANnectivity/cannectivity)
 
 ## Videos
 
